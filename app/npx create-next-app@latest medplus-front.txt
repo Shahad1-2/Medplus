@@ -1,4 +1,0 @@
-npx create-next-app@latest medplus-frontend
-cd medplus-frontend
-npm install tailwindcss postcss autoprefixer axios @reduxjs/toolkit react-redux next-seo
-npx tailwindcss init -p
